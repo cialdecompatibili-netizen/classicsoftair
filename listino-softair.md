@@ -1,195 +1,121 @@
-﻿# Listino Classic Softair - droni softair ispirati ai droni reali
+# Listino Classic Softair - softair classica
 
-Bozza di partenza per lo smoke test. **Tutto e' simulazione softair**: pallini di plastica 6 mm (gialli o colorati), niente di reale. Le categorie sono ispirate a quelle viste nei reportage sulla guerra in Ucraina (FPV a fibra ottica, droni intercettori, antidrone), ma qui diventano giochi di squadra.
+Bozza di partenza. **Softair classica**: repliche a pallini di plastica 6 mm (gialli), da gioco sul campo tra squadre. Filosofia: gioco leale, sicurezza prima di tutto, attrezzatura onesta per chi inizia e per chi vuole salire di livello.
 
-Stato fornitori: **da trovare** (AliExpress / produttori cinesi di droni FPV, lanciatori a molla/elettrici e capsule). Prezzi = target di vendita indicativi, da rifare quando abbiamo i costi.
+Stato fornitori: **da trovare**. Prezzi = target di vendita indicativi, da rifare quando abbiamo i costi.
 
-## Cosa ci ha ispirato (fonti pubbliche)
+## Filosofia del negozio
 
-- **FPV a fibra ottica**: al posto della radio c'e' un cavo sottilissimo, quindi non si disturba col jammer. Produzione di massa dal 2025 da entrambe le parti, cavi da 20 km nei modelli piu' recenti.
-- **Droni intercettori**: piccoli droni veloci che inseguono altri droni, sia multicotteri sia ad ala fissa; usati per fermare i droni da attacco.
-- **Difesa antidrone**: torrette automatiche e sistemi di rilevamento, reti e barriere contro i droni a fibra.
-
-Fonti: Ukrainska Pravda, CEPA, SlashGear, RBC-Ukraine, MoD Ucraina (vedi ricerca del 12/11/2026).
-
----
-
-## Linea 1 - Attacco (FPV a fibra)
-
-| Prodotto | Ispirato a | Cosa fa nel gioco | Dotazione softair | Target |
-|---|---|---|---|---|
-| **Classic Softair Fibra F1** | FPV a fibra ottica | Il drone "kamikaze" del gioco: si pilota con visore, collegato da un filo sottile (niente interferenze con le radio degli altri giocatori). Si lancia sul bersaglio e rilascia una nuvola di pallini gialli. | Bobina filo (da definire), visore FPV, rilascio pallini | 190-290 EUR |
-| **Classic Softair Fibra F2 Pro** | FPV a fibra, versione lunga | Come F1 ma con bobina piu' lunga e camera migliore: campi grandi, scenari a squadre. | Bobina lunga, camera HD | 350-490 EUR |
-| **Classic Softair Sciame S4** | Sciami di FPV economici | Kit da 4 mini-drone da gioco (tipo whoop, con gabbia) per azioni coordinate, ognuno con un piccolo lanciatore di pallini. | 4 droni, 4 lanciatori, caricatore multiplo | 220-320 EUR |
-
-## Linea 2 - Granate e bombe di pallini
-
-| Prodotto | Ispirato a | Cosa fa nel gioco | Dotazione softair | Target |
-|---|---|---|---|---|
-| **Classic Softair Granata G1** | Drone con rilascio di carico | Drone con rilascio a gancio: lascia cadere una "granata" che si apre e sparge pallini gialli. | Gancio rilascio, 6 capsule granata | 120-220 EUR |
-| **Classic Softair Bomba Color B1** | Bombe da drone | Capsula che, a contatto o a tempo, libera pallini **colorati** (marcano chi viene colpito, per punteggio). | Capsule pallini colorati, rilascio | 140-240 EUR |
-| **Capsule bomba (ricarica x10)** | - | Ricarica per G1 e B1, gialle o colorate. | 10 capsule | 15-25 EUR |
-
-## Linea 3 - Difesa e intercettazione
-
-| Prodotto | Ispirato a | Cosa fa nel gioco | Dotazione softair | Target |
-|---|---|---|---|---|
-| **Classic Softair Interceptor I1** | Droni intercettori (multicottero) | Veloce e agile: serve a "abbattere" i droni nemici. Spara una raffica corta di pallini sul drone bersaglio. | Lanciatore pallini, camera FPV | 260-390 EUR |
-| **Classic Softair Drone Bersaglio T1** | Droni da attacco ad ala fissa | Drone ad ala fissa in schiuma, economico e resistente, da intercettare. Ha un sensore di colpo (da verificare col fornitore). | Ala fissa, sensore colpo opzionale | 90-160 EUR |
-| **Classic Softair Sentinella** | Torrette antidrone automatiche | Torretta a terra per il campo: spara pallini ai droni che passano nella zona difesa. | Torretta, sensore movimento | 180-320 EUR |
-| **Rete e barriere gioco** | Reti contro droni a fibra | Reti leggere per i bunker del campo: fermano i droni e aggiungono tattica. | Reti, picchetti | 40-90 EUR |
-
-## Linea 4 - Ricognizione e accessori
-
-| Prodotto | Cosa fa nel gioco | Target |
-|---|---|---|
-| **Classic Softair Ricognitore R1** | Drone con camera, senza pallini: vede il campo e segna le posizioni. | 150-250 EUR |
-| **Pallini gialli 6 mm (bio)** | Sacchetto da molti pallini, biodegradabili. | 8-15 EUR |
-| **Pallini colorati (marcanti)** | Per punteggio e arbitraggio. Da verificare composizione e sicurezza. | 12-20 EUR |
-| **Occhiali / maschera protettiva** | Obbligatori per giocare. | 15-40 EUR |
-| **Gilet con sensori di colpo** | Segnano quando un giocatore e' "colpito" (modalita' arbitro). | 60-140 EUR |
-| **Batterie extra e caricatore multiplo** | Piu' partite senza fermarsi. | 25-70 EUR |
-| **Bobina fibra extra** | Ricambio per Fibra F1/F2. | 15-35 EUR |
+- **Classico e pulito**: fucili, pistole, accessori e protezioni. Niente effetti speciali, niente gadget inutili.
+- **Pallino giallo**: e' il nostro segno distintivo (visibile in volo e a terra, facile da recuperare).
+- **Sicurezza**: occhiali e protezioni in ogni kit; consigli chiari su distanze e potenza.
+- **Tre livelli**: Base (primo acquisto), Club (chi gioca ogni weekend), Pro (squadre e tornei).
+- **Niente marchi e loghi reali**: nomi nostri, ispirati alle categorie di prodotto classiche.
 
 ---
 
-## Modalita' di gioco (per la parte contenuti del sito)
+## Linea 1 - Fucili elettrici (AEG)
 
-- **Assalto**: le Fibra F1 attaccano un punto, i giocatori a terra difendono.
-- **Difesa aerea**: una squadra con Interceptor I1 e Sentinella protegge una zona dai droni bersaglio T1.
-- **Sciame**: 4 droni contro 4 giocatori, a punti.
-- **Colori**: bombe colorate per contare i colpiti e dare il punteggio.
+| Prodotto | Tipo | Per chi | Dotazione | Target |
+|---|---|---|---|---|
+| **Classic Carabina Base** | Carabina compatta, batteria | Primo acquisto, campo corto | Caricatore, batteria, caricabatterie | 70-110 EUR |
+| **Classic Carabina Club** | Carabina, corpo metallo, hop-up regolabile | Giocatori abituali | 2 caricatori, batteria LiPo, guide per ottiche | 160-240 EUR |
+| **Classic Fucile d'assalto Pro** | Fucile d'assalto, motore potenziato | Squadre e tornei | 3 caricatori, LiPo, canna di precisione | 280-420 EUR |
+| **Classic Mitraglietta** | Arma corta compatta | Spazi chiusi (CQB) | 2 caricatori, batteria | 90-180 EUR |
+| **Classic Mitragliatrice leggera** | Supporto, caricatore a tamburo | Chi copre la squadra | Tamburo 1000 colpi, bipiede | 220-380 EUR |
 
-## Da verificare PRIMA di vendere (importante)
+## Linea 2 - Fucili di precisione
 
-1. **Regole italiane sui droni con carico o lancio di oggetti**: ENAC/D-Flight, categoria Open, rilascio di oggetti da drone, volo su persone. Il fatto che sia softair non basta.
-2. **Regole softair**: energia massima dei lanciatori, punta rossa/arancione, eta' minima. Un lanciatore montato su un drone potrebbe essere trattato in modo diverso da un'arma softair a terra.
-3. **Sicurezza**: pallini di plastica ma anche pale in movimento: protezioni occhi e viso obbligatorie, distanze minime tra drone e persone.
-4. **Pallini colorati**: tipo di colorante, sicurezza, possibile macchia su vestiti e ambiente.
-5. **Fornitori**: cercare con le parole "FPV drone launcher gel ball / airsoft drone / drop mechanism / interceptor FPV toy"; chiedere campioni prima di mettere i prezzi.
-6. **Immagini e testi**: niente loghi di forze armate o di produttori reali, niente nomi di armi reali nei prodotti.
+| Prodotto | Tipo | Per chi | Dotazione | Target |
+|---|---|---|---|---|
+| **Classic Cecchino Base** | A molla, a otturatore | Primo cecchino | Caricatore, bipiede | 60-110 EUR |
+| **Classic Cecchino Club** | A molla potenziato, canna lunga | Tiro a media distanza | Ottica 3-9x, bipiede | 160-260 EUR |
+| **Classic Tiratore scelto** | Semiautomatico, ottica inclusa | Squadre, ruolo DMR | 2 caricatori, ottica | 260-420 EUR |
+| **Classic Cecchino Pro** | A gas o a molla di alta gamma | Tornei | Canna di precisione, ottica | 420-650 EUR |
 
+## Linea 3 - Pistole
+
+| Prodotto | Tipo | Per chi | Dotazione | Target |
+|---|---|---|---|---|
+| **Classic Pistola a molla** | Manuale, un colpo alla volta | Primo acquisto (solo modelli a bassa potenza) | Caricatore, pallini | 15-40 EUR |
+| **Classic Pistola a gas Club** | A gas, a ripetizione, culatta mobile | Arma secondaria | 2 caricatori, bomboletta | 80-150 EUR |
+| **Classic Pistola a gas Pro** | A gas, corpo metallo | Tornei | 3 caricatori, kit manutenzione | 160-260 EUR |
+| **Classic Revolver** | A gas, tamburo con 6 colpi | Collezionisti e gioco a tema | Tamburo, bomboletta | 70-140 EUR |
+
+## Linea 4 - Fucili a pompa
+
+| Prodotto | Tipo | Per chi | Dotazione | Target |
+|---|---|---|---|---|
+| **Classic Pompa Base** | A molla, tipo caccia | Gioco a tema, campo corto | Cartucce ricaricabili | 60-110 EUR |
+| **Classic Pompa Club** | A gas, spara 3 pallini per colpo | Squadre | Cartucce, bomboletta | 140-230 EUR |
+
+## Linea 5 - Pallini e munizioni
+
+| Prodotto | Peso | Uso | Target |
+|---|---|---|---|
+| **Pallini gialli 0,20 g (sacco 5000)** | Leggeri | Armi base | 8-12 EUR |
+| **Pallini gialli 0,25 g (sacco 5000)** | Medi | Il nostro standard per AEG e pistole | 10-14 EUR |
+| **Pallini gialli 0,28-0,30 g (sacco 5000)** | Pesanti | Cecchini e tiro a lunga distanza | 12-18 EUR |
+| **Pallini biodegradabili gialli (sacco 5000)** | Medi | Campi all'aperto, rispettano l'ambiente | 14-22 EUR |
+| **Pallini tracciante (sacco 2000)** | Medi, luminosi | Gioco serale (serve il tracciatore) | 14-20 EUR |
+
+## Linea 6 - Protezioni e abbigliamento
+
+| Prodotto | Cosa fa | Target |
+|---|---|---|
+| **Occhiali protettivi (obbligatori)** | Resistenti agli impatti, antiappannamento | 12-40 EUR |
+| **Maschera a rete (viso)** | Protegge viso e denti | 20-50 EUR |
+| **Maschera integrale** | Occhi e viso insieme | 45-90 EUR |
+| **Guanti protettivi** | Proteggono nocche e dita | 12-30 EUR |
+| **Gilet con tasche porta-caricatori** | Per tenere caricatori e accessori | 35-90 EUR |
+| **Mimetica (giacca e pantaloni)** | Set da campo, tessuto robusto | 50-110 EUR |
+| **Ginocchiere e gomitiere** | Per chi gioca spesso | 15-35 EUR |
+| **Cappello e fascia** | Riconoscimento di squadra | 8-20 EUR |
+
+## Linea 7 - Accessori e ricambi
+
+| Prodotto | Cosa fa | Target |
+|---|---|---|
+| **Caricatore di ricambio** | Per AEG e pistole | 8-25 EUR |
+| **Batteria LiPo + caricabatterie** | Piu' potenza e durata | 25-60 EUR |
+| **Puntatore ottico (red dot)** | Per mirare piu' velocemente | 20-80 EUR |
+| **Ottica da cecchino 3-9x** | Per tiro a lunga distanza | 40-120 EUR |
+| **Bomboletta gas (green gas)** | Per le armi a gas | 6-12 EUR |
+| **Caricatore rapido a manovella** | Riempie i caricatori in pochi secondi | 15-30 EUR |
+| **Kit pulizia e manutenzione** | Olio, spazzole, bacchetta | 12-25 EUR |
+| **Sacca e custodia imbottita** | Per il trasporto in sicurezza | 20-60 EUR |
+| **Bersagli e fermapallini** | Per allenarsi a casa o nel giardino | 15-50 EUR |
+
+## Linea 8 - Kit pronti
+
+| Kit | Cosa contiene | Target |
+|---|---|---|
+| **Kit Primo Gioco** | Carabina Base, occhiali, guanti, 1 sacco pallini | 120-180 EUR |
+| **Kit Club** | Carabina Club, pistola, gilet, maschera, pallini | 360-520 EUR |
+| **Kit Cecchino** | Cecchino Club, ottica, bipiede, pistola di supporto | 300-480 EUR |
+| **Kit Squadra (4 giocatori)** | 4 Carabine Base, 4 maschere, pallini | 380-560 EUR |
 
 ---
 
-# AGGIORNAMENTO 12/11/2026 - categorie separate e nuove idee
+## Modalita' di gioco (per i contenuti del sito)
 
-Struttura nuova: ogni categoria e' separata, cosi' il sito puo' avere un menu per uso. Le linee del listino sopra restano come primi prodotti; qui sotto le riorganizziamo e aggiungiamo.
+1. **Eliminazione**: due squadre, chi e' colpito esce dal gioco.
+2. **Cattura la bandiera**: si conquista la bandiera nemica e la si porta alla base.
+3. **Controllo dei punti**: si tengono posizioni sulla mappa per un tempo stabilito.
+4. **Scorta**: una squadra scorta un giocatore da un punto A a un punto B.
+5. **CQB (spazi chiusi)**: solo armi corte e potenza ridotta.
 
-## Categorie (menu del sito)
+## Checklist prima di vendere
 
-| Categoria | Cosa e' nel gioco | Prodotti gia' in listino |
-|---|---|---|
-| **Ricognizione** | Vede il campo, segna le posizioni, niente pallini | Ricognitore R1 |
-| **Attacco** | FPV che colpisce il bersaglio | Fibra F1, Fibra F2 Pro, Sciame S4 |
-| **Bombardiere** | Rilascia granate e bombe di pallini | Granata G1, Bomba Color B1, capsule |
-| **Lungo raggio** | Droni che coprono tutto il campo o piu' campi | (da aggiungere, vedi sotto) |
-| **Difesa** | Intercetta e abbatte i droni nemici | Interceptor I1, Sentinella, Bersaglio T1, reti |
-| **Sciami** | Gruppi coordinati di droni economici | Sciame S4 (da sviluppare, vedi sotto) |
-| **Accessori** | Pallini, protezioni, gilet, batterie | vedi listino |
+1. **Potenza**: in Italia le repliche vendute liberamente non devono superare 1 Joule. Da verificare col fornitore e dichiarare in ogni scheda.
+2. **Punta rossa o arancione**: obbligatoria sulle repliche, controllare che resti visibile.
+3. **Eta' minima**: vendita solo ai maggiorenni, salvo modelli a bassissima potenza (da verificare la normativa).
+4. **Sicurezza**: occhiali inclusi in ogni kit, istruzioni chiare in italiano.
+5. **Marchi**: niente loghi o nomi di produttori reali sulle schede prodotto.
+6. **Spedizioni**: controllare i limiti dei corrieri per bombolette gas e batterie LiPo.
 
-## Bombe plananti (idea affascinante)
+## Prossimi passi
 
-Ispirate alle bombe plananti: un piccolo aliante con ali che viene sganciato da un drone e plana verso il bersaglio, senza motore proprio.
-
-| Prodotto | Idea | Gioco | Target |
-|---|---|---|---|
-| **Classic Softair Aliante A1** | Mini aliante in schiuma con capsula di pallini gialli, si sgancia dal drone a quota e plana in avanti. | Colpisce da lontano senza avvicinarsi: ottimo per i giochi di assalto. | 25-50 EUR (aliante) |
-| **Classic Softair Aliante A2 Color** | Come A1 con capsula di pallini colorati, apertura a contatto. | Segna l'area colpita per il punteggio. | 30-60 EUR |
-| **Pack 6 alianti** | Confezione da 6 alianti per un'intera partita. | Costo basso per colpo, margine buono. | 120-220 EUR |
-| **Gancio sgancio doppio** | Gancio per drone che porta 2 alianti. | Due lanci per volo. | 35-70 EUR |
-
-Note: sono pezzi di schiuma/EPP, economici da produrre. Da cercare sui fornitori: "EPP glider drop", "drone airdrop release", "foam glider toy". Da verificare le regole sul rilascio di oggetti da drone.
-
-## Velocita': a benzina e a getto (tendenza reale 2026)
-
-Cosa sta succedendo nella guerra in Ucraina, da cui prendiamo ispirazione: i droni da attacco ad elica a motore a scoppio (stile Shahed) venivano intercettati sempre meglio, e nel 2026 sono comparse versioni **a getto (turbogetto)**, circa 2-3 volte piu' veloci. Risposta: **intercettori a getto**, cioe' droni veloci a turbina (Alexa Spatium, in servizio da agosto 2026) o intercettori ad elica ma piu' veloci (SkyFall P1-SUN Jetkiller, circa 370 km/h). Collo di bottiglia reale: i motorini a getto miniaturizzati sono pochi e costosi, quindi si lavora anche su versioni elettriche piu' veloci.
-
-Per noi (simulazione softair, budget "infinito"): tre livelli di velocita'.
-
-| Livello | Motore | Cosa e' | Per chi |
-|---|---|---|---|
-| **Standard** | Elettrico ad elica | I droni gia' in listino | Tutti |
-| **Veloce** | **EDF (ventola intubata elettrica)**: sembra un jet, e' elettrico | Aerei "jet" in schiuma/composito con ventola; silenziosi, sicuri, facili da trovare | Giocatori esperti |
-| **Extreme** | **Micro-turbina a kerosene** (hobby RC) o **motore a scoppio a benzina** | Modelli da aeromodellismo evoluto, costosi e rumorosi | Solo esperti, edizione limitata |
-
-### Prodotti (bozza)
-
-| Prodotto | Ispirato a | Idea | Target |
-|---|---|---|---|
-| **Classic Softair Jet J1 (EDF)** | Intercettori a getto | Aereo a getto elettrico con ventola, velocissimo: per intercettare i bersagli veloci di gioco. Lanciatore pallini frontale in versione leggera. | 280-520 EUR |
-| **Classic Softair Jet J1 Target** | Droni da attacco a getto | Bersaglio jet in schiuma per allenare l'intercettazione ad alta velocita'. | 120-240 EUR |
-| **Classic Softair Turbo T1 (micro-turbina)** | Intercettori a turbina | Modello con micro-turbina a kerosene da aeromodellismo, versione da esposizione/gara. Serve esperienza e un campo adatto. | 3.500-6.500 EUR (da verificare) |
-| **Classic Softair Piston P1 (benzina)** | Droni a motore a scoppio | Ala fissa a benzina per lungo raggio e autonomia: copre piu' campi di gioco. | 900-2.200 EUR |
-| **Classic Softair Catapulta** | Lancio da rampa | Rampa di lancio per ali fisse veloci. | 90-250 EUR |
-
-Cose da sapere:
-- Le micro-turbine esistono nell'aeromodellismo ma sono costose, rumorose e richiedono carburante, manutenzione e un club/campo di volo. Per un gioco di squadra la versione **EDF** e' molto piu' realistica da vendere.
-- Gioco e velocita': a 300+ km/h il drone con pallini non e' piu' un gioco da campo piccolo. Servono aree grandi e sicure.
-- Da verificare: regole ENAC per aeromodelli (peso, velocita', quota), assicurazione, rumore, carburante e stoccaggio, licenze per l'uso in campo.
-- Da cercare sui fornitori: "EDF jet RC 64mm / 70mm / 90mm", "micro turbine jet engine RC", "gas engine fixed wing RC drone", "catapult launcher RC glider".
-
-## Lungo raggio
-
-Per giocare su campi enormi (bosco, cave, scenari di 1-2 km) o in "campagne" di piu' ore.
-
-| Prodotto | Idea | Target |
-|---|---|---|
-| **Classic Softair Cruiser L1** | Ala fissa elettrica ad alta autonomia, camera FPV, rilascio di alianti/capsule a lunga distanza. | 450-900 EUR |
-| **Classic Softair Cruiser L2 Piston** | Come L1 ma a benzina: piu' autonomia (vedi Piston P1). | 900-2.200 EUR |
-| **Classic Softair Relay R2** | Drone "ripetitore": sale in quota e fa da ponte radio per gli altri droni (collegamento LoRa, vedi sezione sciami). | 150-350 EUR |
-| **Classic Softair Fibra Long F3** | FPV a fibra con bobina molto lunga: nessuna interferenza anche a distanza. | 450-750 EUR |
-
-Nota di realismo: nei reportage il lungo raggio e' passato da pochi km a decine di km per i droni a fibra e per quelli di rete. Nel gioco basta una frazione, cosi' si resta sempre in vista dell'arbitro.
-
-## Guida autonoma e intelligenza artificiale (versione gioco)
-
-Cosa fanno i produttori reali: moduli che prendono il controllo solo nell'ultimo tratto ("last mile"). Un umano sceglie il bersaglio sullo schermo, poi un computer di bordo con visione artificiale tiene il bersaglio al centro e finisce il volo da solo, anche se la radio cade. Moduli di questo tipo sono arrivati a costare intorno ai 100 dollari, ed e' lo stesso schema usato dagli intercettori. Ci sono 5 livelli di autonomia, dal "pilota sceglie tutto" al "drone fa tutta la missione".
-
-Per noi, in gioco, in modo semplice e sicuro:
-
-| Prodotto | Idea | Target |
-|---|---|---|
-| **Modulo Lock-On L1** | Camera e piccolo computer: il pilota seleziona sullo schermo un giocatore (con gilet marcato) e il drone lo segue; il rilascio dei pallini e' sempre deciso dal pilota. | 90-200 EUR |
-| **Modulo Intercept AI** | Su Interceptor/Jet: tiene il drone bersaglio nel mirino e corregge la rotta. | 150-300 EUR |
-| **Gilet con marcatore** | Marcatori colorati o IR sul gilet, facilitano il riconoscimento da parte della camera. | 40-90 EUR |
-| **Modalita' addestramento** | Il drone vola da solo su un percorso, per imparare. | incluso |
-
-Regola di gioco consigliata (e di prodotto): **il pilota decide sempre il colpo**. Niente modalita' completamente autonome contro persone: anche in softair e' piu' sicuro, e resta fedele al dibattito etico reale (autonomia solo nella parte terminale).
-
-Da verificare: privacy (riconoscimento di persone con camera), sicurezza, regole su droni con guida assistita.
-
-## Sciami coordinati con ESP32 + LoRa (idea economica)
-
-Logica: per pochi euro si costruisce uno sciame "strategico". Ogni drone ha una scheda **ESP32** (pochi euro) e un modulo **LoRa** (pochi euro): comunicano a bassa velocita' ma a lunga distanza, senza internet e senza Wi-Fi. Non servono per pilotare il volo (quello resta al controller di volo), ma per **coordinare il gioco**: ruoli, stato e punteggio.
-
-### Cosa si scambiano gli sciami
-
-- **Posizione e stato**: ogni drone dice "sono qui, batteria al 40%, 12 pallini".
-- **Ruoli**: capo sciame, ricognitore, attaccante, bombardiere. Il capo assegna gli obiettivi.
-- **Colpiti/abbattuti**: se un drone e' "colpito" (sensore), tutto lo sciame lo sa e cambia tattica.
-- **Zona di gioco (geofence)**: se un drone esce dall'area, riceve il comando di rientro.
-- **Arbitro**: un nodo a terra manda "inizio/stop/pausa/atterraggio di emergenza" a tutto lo sciame.
-
-### Prodotti (bozza)
-
-| Prodotto | Idea | Target |
-|---|---|---|
-| **Classic Softair Sciame Kit S-LoRa** | Kit con 4 droni economici + 4 schede ESP32/LoRa gia' programmate + nodo arbitro. | 350-600 EUR |
-| **Scheda Swarm Node (ESP32+LoRa)** | Scheda da montare su qualsiasi drone: ruolo, stato, geofence. | 25-45 EUR |
-| **Nodo Arbitro** | Scatola a terra con pulsante di stop generale e schermata dello sciame. | 60-120 EUR |
-| **Software Comandante** | App (telefono/PC) con mappa dello sciame, ordini e punteggio. Lo facciamo noi, siamo sviluppatori. | abbonamento o incluso |
-| **Relay R2** | Drone ripetitore per tenere il collegamento su campi grandi. | vedi lungo raggio |
-
-### Perche' e' un buon prodotto per noi
-
-- Costo hardware bassissimo, valore alto nel **software** (che sappiamo scrivere).
-- Differenzia il sito: non vendiamo solo droni, vendiamo **una strategia di gioco**.
-- Si puo' fare open: guide e firmware, e vendere i kit pronti.
-
-### Da verificare
-
-- **LoRa in Europa**: banda 868 MHz con limiti di potenza e di tempo di trasmissione (duty cycle). Controllare le regole.
-- **Sicurezza**: stop di emergenza obbligatorio, failsafe, atterraggio automatico se il collegamento cade.
-- **Non pilotare con LoRa**: la banda e' troppo lenta per il controllo manuale; usarla solo per coordinamento.
-
+- Trovare fornitori e costi reali, poi rifare i prezzi.
+- Creare le schede prodotto nel sito, con foto.
+- Scrivere le guide: "Come scegliere la prima replica", "Pallini: quale peso scegliere", "Regole e sicurezza sul campo".
